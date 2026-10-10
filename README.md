@@ -90,12 +90,10 @@ Brings together key workforce metrics in a dashboard to make comparisons easier 
 
 ## 📁 Project Files
 
-Access the project files below:
+- 📊 [**Power BI Dashboard (.pbix)**](./Files/HR%20attriation.pbix)
+- 📗 [**Excel Analysis (.xlsx)**](./Files/Employee_attriation.xlsx)
 
-- 📊 [**Power BI Dashboard (.pbix)**](./Files/HR%20Employee%20Attrition%20Dashboard.pbix) — Open or download the dashboard file.
-- 📗 [**Excel Analysis (.xlsx)**](./Files/HR%20Employee%20Attrition%20Analysis.xlsx) — Access the Excel workbook used for the project.
-
-**Note:** The Power BI dashboard requires Power BI Desktop to explore interactively. The Excel workbook requires a compatible spreadsheet application.
+**Note:** Download the Power BI file and open it using Power BI Desktop to explore the dashboard interactively. The Excel workbook can be downloaded and opened in Microsoft Excel or a compatible spreadsheet application.
 
 ## 💡 Business Relevance
 
